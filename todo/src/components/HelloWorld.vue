@@ -1,6 +1,10 @@
 <template>
   <div class="hello">
-    
+    <p>my todo list</p>
+    <div>
+      <input type="text" id="input" placeholder="Enter todo..." />
+      <button>Add</button>
+    </div>
   </div>
 </template>
 
