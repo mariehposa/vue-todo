@@ -7,7 +7,7 @@
     </div>
 
     <ul>
-      <li>{}</li>
+      <li>{todos}</li>
     </ul>
   </div>
 </template>
