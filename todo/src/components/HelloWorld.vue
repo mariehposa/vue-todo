@@ -1,14 +1,14 @@
 <template>
   <div class="hello">
-    <p>my todo list</p>
+    <!-- <p>my todo list</p>
     <div>
-      <input type="text" id="input" placeholder="Enter todo..." />
-      <button>Add</button>
+      <input v-model="todos" type="text" id="input" placeholder="Enter todo..." />
+      <button v-if="todos" type="submit">Add</button>
     </div>
 
     <ul>
       <li>{todos}</li>
-    </ul>
+    </ul> -->
   </div>
 </template>
 
