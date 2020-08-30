@@ -5,6 +5,10 @@
       <input type="text" id="input" placeholder="Enter todo..." />
       <button>Add</button>
     </div>
+
+    <ul>
+      <li>{}</li>
+    </ul>
   </div>
 </template>
 
