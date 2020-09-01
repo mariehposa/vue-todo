@@ -14,6 +14,7 @@
 
 <script>
 // import HelloWorld from './components/HelloWorld.vue'
+import { CBox, CButton } from '@chakra-ui/vue'
 
 export default {
   name: 'App',

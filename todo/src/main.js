@@ -6,5 +6,5 @@ createApp(App).mount('#app')
 
 new Vue({
     el: '#app',
-    render: (h) => h(CThemeProvider, [h(App)])
+    render: (h) => h(CThemeProvider, [h(CReset)], [h(App)])
   }).$mount()
